@@ -1,4 +1,4 @@
-# my-fisrst-ruby-program
+# my-first-ruby-program
 
 # 概要
 数多のえんじにあ成る者もすなるるびぃ成る物を自分もしてみむとてすなり
